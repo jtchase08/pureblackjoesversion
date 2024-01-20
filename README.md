@@ -6,7 +6,7 @@ largely based on the [metrology](https://github.com/Madelena/Metrology-for-Beepe
 
 
 # installation
-1. copy the [the raw css code](https://raw.githubusercontent.com/Madelena/Metrology-for-Beeper/main/Metrology-for-Beeper.css)
+1. copy the [the raw css code](https://raw.githubusercontent.com/Chris-McElroy/pureblack/main/pureblack.css)
 2. paste it into the Custom CSS box at the bottom of Settings > Appearance
 3. hit “Apply”
 4. continue to hit “Apply” button each time the app restarts
