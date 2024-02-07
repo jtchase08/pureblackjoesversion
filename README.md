@@ -1,12 +1,12 @@
-# pureblack for beeper
+# pureblackjoesversion for beeper
 
-an all black theme for [beeper](https://www.beeper.com/)
+a theme for [beeper](https://www.beeper.com/)
 largely based on [pureblack](https://github.com/Chris-McElroy/pureblack) by Chris McElroy, who based that theme on the [metrology](https://github.com/Madelena/Metrology-for-Beeper/tree/main) theme
 
-![image](na.png)
+![image](pbjoesversionexample.png)
 
 # installation
-1. copy the [the raw css code](na.com)
+1. copy the [the raw css code](https://github.com/jtchase08/pureblackjoesversion/blob/main/pureblackjoesversion.css)
 2. paste it into the Custom CSS box at the bottom of Settings > Appearance
 3. hit “Apply”
 4. continue to hit “Apply” button each time the app restarts
@@ -16,4 +16,4 @@ largely based on [pureblack](https://github.com/Chris-McElroy/pureblack) by Chri
 - all themes reset when beeper restarts to avoid potential issues
 
 # known issues
-- Chris hasn'tfound a way to make the reply boxes for outgoing messages the same color as the reply boxes for incoming messages, and he would appreciate help. I'll be looking into this as well.
+- Chris hasn't found a way to make the reply boxes for outgoing messages the same color as the reply boxes for incoming messages, and he would appreciate help. I'll be looking into this as well.
