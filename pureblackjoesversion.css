@@ -1,6 +1,6 @@
 :root {
-  --pureblack-background: 0, 0%, 0%;
-  --pureblack-gray-1: 0, 0%, 10%;
+  --pbjoesversion-background: 0, 0%, 0%;
+  --pbjoesversion-gray-1: 0, 0%, 7%;
 
   --reply-bg-opacity: 100%;
   --reply-bg-saturation: 0%;
@@ -14,13 +14,13 @@
 /* font setting */
 
 * * {
-  font-family: "Baskerville", serif !important;
+  font-family: "Arial", sans-serif !important;
 }
 
 /* left panel */
 
 .bp_LeftPanel {
-  background-color: hsl(var(--pureblack-background)) !important;
+  background-color: hsl(var(--pbjoesversion-background)) !important;
 }
 
 /* room header */
@@ -28,10 +28,10 @@
 .mx_RoomHeader {
   background: linear-gradient(
     to bottom,
-    hsla(var(--pureblack-background), 0.8),
-    hsla(var(--pureblack-background), 0)
+    hsla(var(--pbjoesversion-background), 1),
+    hsla(var(--pbjoesversion-background), 0)
   );
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(1px);
   box-shadow: none;
   z-index: 1;
   position: absolute;
@@ -41,7 +41,7 @@
 /* composer */
 
 .mx_MessageComposer {
-  background: hsl(var(--pureblack-background));
+  background: hsl(var(--pbjoesversion-background));
 }
 
 /* homepage */
@@ -49,7 +49,7 @@
 .bp_MainPanel,
 .mx_HomePage_default_wrapper,
 .mx_RoomView_body {
-  background: hsl(var(--pureblack-background)) !important;
+  background: hsl(var(--pbjoesversion-background)) !important;
 }
 
 /* messages */
@@ -57,12 +57,12 @@
 .mx_EventTile_messageOut:not(.mx_EventTile_emoji, .mx_EventTile_image,.mx_EventTile_sticker) .mx_EventTile_line,
 .mx_EventTile_line,
 .mx_MTextBody.mx_EventTile_caption.mx_EventTile_caption--reactions {
-  background-color: hsl(var(--pureblack-background)) !important;
+  background-color: hsl(var(--pbjoesversion-background)) !important;
 }
 
 .mx_ReplyPreview,
 .mx_ReactionsRowButton, .mx_ReactionsRow_addReaction {
-  background-color: hsl(var(--pureblack-gray-1)) !important;
+  background-color: hsl(var(--pbjoesversion-gray-1)) !important;
 }
 
 .mx_EventTile_lastInSection.mx_EventTile_message.mx_EventTile_messageOut .mx_EventTile_line::before,
