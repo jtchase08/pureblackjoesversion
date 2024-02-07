@@ -1,7 +1,9 @@
 # pureblack for beeper
 
 an all black theme for [beeper](https://www.beeper.com/)
-largely based on [pureblack](https://github.com/Chris-McElroy/pureblack) by Chris McElroy, who based that theme on the [metrology](https://github.com/Madelena/Metrology-for-Beeper/tree/main) theme
+
+i love Chris McElroy's theme, [pureblack](https://github.com/Chris-McElroy/pureblack), but wanted a different font and a couple other small tweaks, figured id put my version up as well. 98% of credit goes to Chris.
+Chris McElroy, based his theme on the [metrology](https://github.com/Madelena/Metrology-for-Beeper/tree/main) theme.
 
 ![image](na.png)
 
